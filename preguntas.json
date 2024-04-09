@@ -1,0 +1,205 @@
+{
+  "categorias":["Cat. 1","Cat. 2","Cat. 3","Cat. 4","Cat. 5"],
+  "preguntas": [
+    {
+      "categoria": "Sistema computacional",
+      "pregunta": "¿Cuál es el propósito principal de utilizar animaciones en una presentación de PowerPoint? A) Hacer la presentación más pesada en tamaño. B) Atraer y mantener la atención del público. C) Aumentar el tiempo de preparación de la presentación. D) Sustituir el contenido textual.",
+      "respuesta": "B) Atraer y mantener la atención del público.",
+      "puntos": 100,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Gestionar Archivos en el SO y en la Nube",
+      "pregunta": "Qué acción NO se puede realizar al gestionar archivos tanto en el sistema operativo como en la nube? A. Mover archivos de una carpeta a otra. B. Cambiar el formato de un archivo automáticamente. C. Compartir archivos con otros usuarios. D. Eliminar archivos",
+      "respuesta": "La respuesta correcta es: B. Cambiar el formato de un archivo automáticamente",
+      "puntos": 100,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Sistema computacional",
+      "pregunta": "Verdadero o Falso: El sistema operativo es un tipo de software de sistema que permite la interacción entre el hardware computacional y el usuario. A. Verdadero. B. Falso",
+      "respuesta": "La respuesta correcta es: Verdadero",
+      "puntos": 100,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Gestión de archivos",
+      "pregunta": "¿Cuál es la principal ventaja de almacenar archivos en la nube comparado con el almacenamiento local en el disco duro de tu computadora? A. Mayor velocidad de procesamiento. B. Acceso a los archivos desde cualquier dispositivo con internet. C. Menor necesidad de actualizaciones de software. D. Mejor calidad de los archivos almacenados",
+      "respuesta": "La respuesta correcta es: B. Acceso a los archivos desde cualquier dispositivo con internet",
+      "puntos": 100,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de textos",
+      "pregunta": "¿Qué función permite combinar correspondencia en un procesador de textos? A. Crear automáticamente una lista de referencias bibliográficas. B. Insertar automáticamente el nombre y detalles de contacto de personas desde una base de datos en documentos individuales. C. Cambiar el estilo de texto a cursiva en todo el documento. D. Verificar la ortografía y gramática",
+      "respuesta": "Respuesta Correcta: B) Insertar automáticamente el nombre y detalles de contacto de personas desde una base de datos en documentos individuales",
+      "puntos": 100,
+      "imagen": ""
+    },
+
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Verdadero o Falso: En la mayoría de los procesadores de texto, utilizar el atajo de teclado 'Ctrl + Z' revertirá la última acción realizada.",
+      "respuesta": "Respuesta Correcta: Verdadero",
+      "puntos": 200,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Sistema Computacional",
+      "pregunta": "¿Qué es un sistema operativo? A.  Un programa que gestiona el hardware de la computadora. B. Un dispositivo de entrada/salida. C. Un tipo de software de aplicación. D. Una unidad de almacenamiento.",
+      "respuesta": "Respuesta Correcta: A) Un programa que gestiona el hardware de la computadora.",
+      "puntos": 200,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Sistema Computacional",
+      "pregunta": "Verdadero o Falso: La memoria ROM es donde se almacenan los programas y datos que el usuario está utilizando activamente.",
+      "respuesta": "Respuesta Correcta: Falso (Es la memoria RAM la que cumple esta función).",
+      "puntos": 200,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Gestionar Archivos en el SO y en la Nube",
+      "pregunta": "¿Cuál característica NO es comúnmente asociada con el almacenamiento en la nube? A. Capacidad de almacenamiento ilimitada gratuita. B. Sincronización de archivos en múltiples dispositivos. C. Colaboración en tiempo real. D. Acceso a archivos desde cualquier lugar.",
+      "respuesta": "Respuesta Correcta: A. Capacidad de almacenamiento ilimitada gratuita.",
+      "puntos": 200,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Gestionar Archivos en el SO y en la Nube",
+      "pregunta": "Verdadero o Falso: Al organizar archivos en el sistema operativo, es recomendable usar una estructura de carpetas que refleje el tipo de proyecto, tema o actividad para facilitar la búsqueda y el acceso a los documentos.",
+      "respuesta": "Respuesta Correcta: Verdadero",
+      "puntos": 200,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué característica se utiliza para insertar automáticamente una tabla de contenido en un documento? A. Revisión ortográfica. B. Formato de texto. C. Estilos y encabezados. D. Combinar correspondencia",
+      "respuesta": "Respuesta Correcta: C) Estilos y encabezados",
+      "puntos": 300,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Verdadero o Falso: La herramienta 'Buscar y Reemplazar' en un procesador de textos solo permite cambiar palabras, no puede buscar y reemplazar formato o estilos específicos.",
+      "respuesta": "Respuesta Correcta: Falso (La herramienta 'Buscar y Reemplazar' puede ser utilizada para cambiar tanto texto como formatos y estilos específicos).",
+      "puntos": 300,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué opción del menú Archivo se utiliza para crear un nuevo documento desde cero? A. Guardar. B. Abrir. C. Nuevo. D.  Imprimir",
+      "respuesta": "Respuesta Correcta: C) Nuevo",
+      "puntos": 300,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Cuál herramienta del menú Inicio permite cambiar la orientación del texto de horizontal a vertical en un párrafo? A. Orientación del texto. B. Dirección del texto. C. Girar texto. D. Alineación del texto",
+      "respuesta": "Respuesta Correcta: B) Dirección del texto",
+      "puntos": 300,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué se puede insertar desde el menú Insertar de Word? A. Índice. B. Pie de página. C. Ecuación. D. Todas las anteriores",
+      "respuesta": "Respuesta Correcta: D) Todas las anteriores",
+      "puntos": 300,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Para qué se utiliza la opción Márgenes en el menú Diseño de Página? A. Para insertar márgenes decorativos en el documento. B. Para establecer la distancia entre el texto y el borde de la página. C. Para cambiar la orientación de la página de vertical a horizontal. D. Para añadir bordes a los párrafos",
+      "respuesta": "Respuesta Correcta: B) Para establecer la distancia entre el texto y el borde de la página",
+      "puntos": 400,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué función del menú Referencias se utiliza para citar fuentes bibliográficas? A. Tabla de contenido. B. Notas al pie. C. Citas y bibliografía. D. Títulos",
+      "respuesta": "Respuesta Correcta: C) Citas y bibliografía",
+      "puntos": 400,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué herramienta del menú Revisar se utiliza para añadir comentarios a un documento? A. Control de cambios. B. Comparar. C. Comentarios. D. Ortografía y gramática",
+      "respuesta": "Respuesta Correcta: C) Comentarios",
+      "puntos": 400,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Verdadero o Falso: En el menú Vista de Word, la opción Lectura de pantalla completa permite visualizar el documento sin distracciones, ocultando la cinta de opciones y otros elementos de la interfaz.",
+      "respuesta": "Respuesta Correcta: Verdadero",
+      "puntos": 400,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Cómo se inserta una tabla en un documento de Word? A.  Menú Inicio > Grupo Párrafo > Botón Insertar Tabla. B.  Menú Archivo > Opción Nueva Tabla. C. Menú Insertar > Grupo Tablas > Botón Tabla. D. Menú Vista > Opción Mostrar Tabla",
+      "respuesta": "Respuesta Correcta: C) Menú Insertar > Grupo Tablas > Botón Tabla",
+      "puntos": 400,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Verdadero o Falso: En Word, es posible convertir texto ya escrito en un documento directamente en una tabla.",
+      "respuesta": "Respuesta Correcta: Verdadero",
+      "puntos": 500,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Qué opción permite modificar el estilo de una imagen insertada en Word? A. Formato de Párrafo. B. Herramientas de Imagen > Formato. C. Diseño de Página. D. Revisar",
+      "respuesta": "Respuesta Correcta: B) Herramientas de Imagen > Formato",
+      "puntos": 500,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Al insertar una imagen en Word, ¿qué característica se utiliza para hacer que el texto fluya alrededor de la imagen de manera atractiva? A. Ajuste de texto. B. Posición. C. Comprimir. D. Estilos de imagen",
+      "respuesta": "Respuesta Correcta: A) Ajuste de texto",
+      "puntos": 500,
+      "imagen": ""
+    },
+    
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "¿Cómo se puede cambiar el tamaño de una imagen en Word sin alterar sus proporciones? A. Arrastrando cualquier esquina de la imagen mientras se mantiene presionada la tecla Shift. B. Cambiando las dimensiones en el menú Formato sin seleccionar Mantener proporción. C. Usando el comando Cortar y luego Pegar la imagen. D. Modificando el tamaño en las propiedades de la imagen sin bloquear la relación de aspecto.",
+      "respuesta": "Respuesta Correcta: A) Arrastrando cualquier esquina de la imagen mientras se mantiene presionada la tecla Shift.",
+      "puntos": 500,
+      "imagen": ""
+    },
+
+    {
+      "categoria": "Procesador de Textos",
+      "pregunta": "Verdadero o Falso: Puedes usar la herramienta Recortar para ajustar la visibilidad de una imagen en Word, eliminando partes no deseadas de los bordes de la imagen.",
+      "respuesta": "Respuesta Correcta: Verdadero",
+      "puntos": 500,
+      "imagen": ""
+    }
+  ]
+}
+
