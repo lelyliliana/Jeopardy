@@ -3,23 +3,23 @@
   "preguntas": [
     {
       "categoria": "Sistema computacional",
-      "pregunta": "¿Cuál es el propósito principal de utilizar animaciones en una presentación de PowerPoint? A) Hacer la presentación más pesada en tamaño. B) Atraer y mantener la atención del público. C) Aumentar el tiempo de preparación de la presentación. D) Sustituir el contenido textual.",
+      "pregunta": "¿Cuál es el propósito principal de utilizar animaciones en una presentación de diapositivas?",
       "respuesta": "B) Atraer y mantener la atención del público.",
       "puntos": 100,
-      "imagen": ""
+      "imagen": "imagen/p1.png"
     },
     
     {
       "categoria": "Gestionar Archivos en el SO y en la Nube",
-      "pregunta": "Qué acción NO se puede realizar al gestionar archivos tanto en el sistema operativo como en la nube? A. Mover archivos de una carpeta a otra. B. Cambiar el formato de un archivo automáticamente. C. Compartir archivos con otros usuarios. D. Eliminar archivos",
+      "pregunta": "Qué acción NO se puede realizar al gestionar archivos tanto en el sistema operativo como en la nube?",
       "respuesta": "La respuesta correcta es: B. Cambiar el formato de un archivo automáticamente",
       "puntos": 100,
-      "imagen": ""
+      "imagen": "imagen/p2.png"
     },
     
     {
       "categoria": "Sistema computacional",
-      "pregunta": "Verdadero o Falso: El sistema operativo es un tipo de software de sistema que permite la interacción entre el hardware computacional y el usuario. A. Verdadero. B. Falso",
+      "pregunta": "Verdadero o Falso: El sistema operativo es un tipo de software de sistema que permite la interacción entre el hardware computacional y el usuario",
       "respuesta": "La respuesta correcta es: Verdadero",
       "puntos": 100,
       "imagen": ""
@@ -27,18 +27,18 @@
     
     {
       "categoria": "Gestión de archivos",
-      "pregunta": "¿Cuál es la principal ventaja de almacenar archivos en la nube comparado con el almacenamiento local en el disco duro de tu computadora? A. Mayor velocidad de procesamiento. B. Acceso a los archivos desde cualquier dispositivo con internet. C. Menor necesidad de actualizaciones de software. D. Mejor calidad de los archivos almacenados",
+      "pregunta": "¿Cuál es la principal ventaja de almacenar archivos en la nube comparado con el almacenamiento local en el disco duro de tu computadora?",
       "respuesta": "La respuesta correcta es: B. Acceso a los archivos desde cualquier dispositivo con internet",
       "puntos": 100,
-      "imagen": ""
+      "imagen": "imagen/p4.png"
     },
     
     {
       "categoria": "Procesador de textos",
-      "pregunta": "¿Qué función permite combinar correspondencia en un procesador de textos? A. Crear automáticamente una lista de referencias bibliográficas. B. Insertar automáticamente el nombre y detalles de contacto de personas desde una base de datos en documentos individuales. C. Cambiar el estilo de texto a cursiva en todo el documento. D. Verificar la ortografía y gramática",
+      "pregunta": "¿Qué función permite combinar correspondencia en un procesador de textos?",
       "respuesta": "Respuesta Correcta: B) Insertar automáticamente el nombre y detalles de contacto de personas desde una base de datos en documentos individuales",
       "puntos": 100,
-      "imagen": ""
+      "imagen": "imagen/p5.png"
     },
 
     {
@@ -51,10 +51,10 @@
     
     {
       "categoria": "Sistema Computacional",
-      "pregunta": "¿Qué es un sistema operativo? A.  Un programa que gestiona el hardware de la computadora. B. Un dispositivo de entrada/salida. C. Un tipo de software de aplicación. D. Una unidad de almacenamiento.",
+      "pregunta": "¿Qué es un sistema operativo?",
       "respuesta": "Respuesta Correcta: A) Un programa que gestiona el hardware de la computadora.",
       "puntos": 200,
-      "imagen": ""
+      "imagen": "imagen/p7.png"
     },
     
     {
@@ -67,10 +67,10 @@
     
     {
       "categoria": "Gestionar Archivos en el SO y en la Nube",
-      "pregunta": "¿Cuál característica NO es comúnmente asociada con el almacenamiento en la nube? A. Capacidad de almacenamiento ilimitada gratuita. B. Sincronización de archivos en múltiples dispositivos. C. Colaboración en tiempo real. D. Acceso a archivos desde cualquier lugar.",
+      "pregunta": "¿Cuál característica NO es comúnmente asociada con el almacenamiento en la nube?",
       "respuesta": "Respuesta Correcta: A. Capacidad de almacenamiento ilimitada gratuita.",
       "puntos": 200,
-      "imagen": ""
+      "imagen": "imagen/p9.png"
     },
     
     {
@@ -83,10 +83,10 @@
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué característica se utiliza para insertar automáticamente una tabla de contenido en un documento? A. Revisión ortográfica. B. Formato de texto. C. Estilos y encabezados. D. Combinar correspondencia",
+      "pregunta": "¿Qué característica se utiliza para insertar automáticamente una tabla de contenido en un documento?",
       "respuesta": "Respuesta Correcta: C) Estilos y encabezados",
       "puntos": 300,
-      "imagen": ""
+      "imagen": "imagen/p11.png"
     },
     
     {
@@ -99,50 +99,50 @@
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué opción del menú Archivo se utiliza para crear un nuevo documento desde cero? A. Guardar. B. Abrir. C. Nuevo. D.  Imprimir",
+      "pregunta": "¿Qué opción del menú Archivo se utiliza para crear un nuevo documento desde cero?",
       "respuesta": "Respuesta Correcta: C) Nuevo",
       "puntos": 300,
-      "imagen": ""
+      "imagen": "imagen/p13.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Cuál herramienta del menú Inicio permite cambiar la orientación del texto de horizontal a vertical en un párrafo? A. Orientación del texto. B. Dirección del texto. C. Girar texto. D. Alineación del texto",
+      "pregunta": "¿Cuál herramienta del menú Inicio permite cambiar la orientación del texto de horizontal a vertical en un párrafo?",
       "respuesta": "Respuesta Correcta: B) Dirección del texto",
       "puntos": 300,
-      "imagen": ""
+      "imagen": "imagen/p14.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué se puede insertar desde el menú Insertar de Word? A. Índice. B. Pie de página. C. Ecuación. D. Todas las anteriores",
+      "pregunta": "¿Qué se puede insertar desde el menú Insertar de Word?",
       "respuesta": "Respuesta Correcta: D) Todas las anteriores",
       "puntos": 300,
-      "imagen": ""
+      "imagen": "imagen/p15.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Para qué se utiliza la opción Márgenes en el menú Diseño de Página? A. Para insertar márgenes decorativos en el documento. B. Para establecer la distancia entre el texto y el borde de la página. C. Para cambiar la orientación de la página de vertical a horizontal. D. Para añadir bordes a los párrafos",
+      "pregunta": "¿Para qué se utiliza la opción Márgenes en el menú Diseño de Página?",
       "respuesta": "Respuesta Correcta: B) Para establecer la distancia entre el texto y el borde de la página",
       "puntos": 400,
-      "imagen": ""
+      "imagen": "imagen/p16.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué función del menú Referencias se utiliza para citar fuentes bibliográficas? A. Tabla de contenido. B. Notas al pie. C. Citas y bibliografía. D. Títulos",
+      "pregunta": "¿Qué función del menú Referencias se utiliza para citar fuentes bibliográficas?",
       "respuesta": "Respuesta Correcta: C) Citas y bibliografía",
       "puntos": 400,
-      "imagen": ""
+      "imagen": "imagen/p17.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué herramienta del menú Revisar se utiliza para añadir comentarios a un documento? A. Control de cambios. B. Comparar. C. Comentarios. D. Ortografía y gramática",
+      "pregunta": "¿Qué herramienta del menú Revisar se utiliza para añadir comentarios a un documento?",
       "respuesta": "Respuesta Correcta: C) Comentarios",
       "puntos": 400,
-      "imagen": ""
+      "imagen": "imagen/p18.png"
     },
     
     {
@@ -155,10 +155,10 @@
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Cómo se inserta una tabla en un documento de Word? A.  Menú Inicio > Grupo Párrafo > Botón Insertar Tabla. B.  Menú Archivo > Opción Nueva Tabla. C. Menú Insertar > Grupo Tablas > Botón Tabla. D. Menú Vista > Opción Mostrar Tabla",
-      "respuesta": "Respuesta Correcta: C) Menú Insertar > Grupo Tablas > Botón Tabla",
+      "pregunta": "¿Cómo se inserta una tabla en un documento de Word?",
+      "respuesta": "Respuesta Correcta: C) Menú Insertar > Herramientas de Tablas > Botón Tabla",
       "puntos": 400,
-      "imagen": ""
+      "imagen": "imagen/p20.png"
     },
     
     {
@@ -171,26 +171,26 @@
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Qué opción permite modificar el estilo de una imagen insertada en Word? A. Formato de Párrafo. B. Herramientas de Imagen > Formato. C. Diseño de Página. D. Revisar",
+      "pregunta": "¿Qué opción permite modificar el estilo de una imagen insertada en Word?",
       "respuesta": "Respuesta Correcta: B) Herramientas de Imagen > Formato",
       "puntos": 500,
-      "imagen": ""
+      "imagen": "imagen/p22.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "Al insertar una imagen en Word, ¿qué característica se utiliza para hacer que el texto fluya alrededor de la imagen de manera atractiva? A. Ajuste de texto. B. Posición. C. Comprimir. D. Estilos de imagen",
+      "pregunta": "Al insertar una imagen en Word, ¿qué característica se utiliza para hacer que el texto fluya alrededor de la imagen de manera atractiva?",
       "respuesta": "Respuesta Correcta: A) Ajuste de texto",
       "puntos": 500,
-      "imagen": ""
+      "imagen": "imagen/p23.png"
     },
     
     {
       "categoria": "Procesador de Textos",
-      "pregunta": "¿Cómo se puede cambiar el tamaño de una imagen en Word sin alterar sus proporciones? A. Arrastrando cualquier esquina de la imagen mientras se mantiene presionada la tecla Shift. B. Cambiando las dimensiones en el menú Formato sin seleccionar Mantener proporción. C. Usando el comando Cortar y luego Pegar la imagen. D. Modificando el tamaño en las propiedades de la imagen sin bloquear la relación de aspecto.",
+      "pregunta": "¿Cómo se puede cambiar el tamaño de una imagen en Word sin alterar sus proporciones?",
       "respuesta": "Respuesta Correcta: A) Arrastrando cualquier esquina de la imagen mientras se mantiene presionada la tecla Shift.",
       "puntos": 500,
-      "imagen": ""
+      "imagen": "imagen/p24.png"
     },
 
     {
